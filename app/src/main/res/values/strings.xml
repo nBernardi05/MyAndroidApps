@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">20230126_BernardiNicola</string>
+    <string name="benvenuto">benvenuto</string>
+    <string name="areaRiservata">Area Riservata</string>
+    <string name="accedi">Accedi</string>
+    <string name="fmail">Quale vuoi che sia la frequenza delle nostre mail?</string>
+    <string name="giorna">Giornaliera</string>
+    <string name="mensi">Mensile</string>
+    <string name="settima">Settimanale</string>
+    <string name="accettat">Accetta i nostri termini di servizio</string>
+</resources>

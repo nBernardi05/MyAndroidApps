@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">20230126_BernardiNicola</string>
+    <string name="benvenuto">Welcome</string>
+    <string name="areaRiservata">Reserved Area</string>
+    <string name="accedi">Log in</string>
+    <string name="fmail">What do you want the frequency of our emails to be?</string>
+    <string name="giorna">Daily</string>
+    <string name="mensi">Monthly</string>
+    <string name="settima">Weekly</string>
+    <string name="accettat">Accept our terms of service</string>
+</resources>
